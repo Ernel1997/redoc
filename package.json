@@ -154,7 +154,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.14.0",
-    "@redocly/openapi-core": "^1.0.0-beta.54",
+    "@redocly/openapi-core": "^1.0.0",
     "@redocly/react-dropdown-aria": "^2.0.11",
     "classnames": "^2.3.1",
     "decko": "^1.2.0",
